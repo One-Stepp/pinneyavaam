@@ -103,7 +103,7 @@ Open the local development URL shown in the terminal.
 
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/a083ddb2-27a4-4bea-a91d-ef33f94a18aa" />
 
