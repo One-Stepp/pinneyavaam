@@ -16,7 +16,7 @@
 
 It comes with a gravity-powered cursor, a Flappy Bird that refuses to let you lose, an alarm that believes in infinite snoozing, and an AI chatbot  that gives you surprisingly convincing reasons to procrastinate.
 
-### The Problem (that doesn't exist)
+## The Problem (that doesn't exist)
 
 Modern technology has become dangerously productive.
 
@@ -28,7 +28,7 @@ So we identified a serious problem:
 
 > **People are not procrastinating enough.**
 
-### The Solution (that nobody asked for)
+## The Solution (that nobody asked for)
 
 Introducing **Pinneyavaam** — an operating system built around one simple philosophy:
 
