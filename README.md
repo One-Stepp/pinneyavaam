@@ -2,9 +2,8 @@
 
 # Pinneyavaam 🗑️
 
-## Basic Details
-
 ### Team Name: One-Step
+### Demo Link: [Click here](https://pinneavaam.ai.studio/)
 
 ### Team Members
 
@@ -15,7 +14,7 @@
 
 **Pinneyavaam** is an intentionally anti-productive operating system designed to help you do absolutely anything except what you actually need to do.
 
-It comes with a gravity-powered cursor, a Flappy Bird that refuses to let you lose, an alarm that believes in infinite snoozing, and an AI chatbot powered by Gemini that gives you surprisingly convincing reasons to procrastinate.
+It comes with a gravity-powered cursor, a Flappy Bird that refuses to let you lose, an alarm that believes in infinite snoozing, and an AI chatbot  that gives you surprisingly convincing reasons to procrastinate.
 
 ### The Problem (that doesn't exist)
 
