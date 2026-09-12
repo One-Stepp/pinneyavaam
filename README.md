@@ -70,17 +70,33 @@ For Software:
 
 # Installation
 
+### 1. Clone the repository
+
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/One-Stepp/pinneyavaam.git
+cd pinneyavaam
+```
+
+### 2. Install dependencies
+
+```bash
 npm install
 ```
 
-# Run
+### 3. Run the app
 
 ```bash
 npm run dev
 ```
+
+Open the link shown in the terminal (usually `http://localhost:5173`).
+
+### Requirements
+
+* Node.js
+* npm
+* Gemini API key (for the chatbot)
+
 
 Open the local development URL shown in the terminal.
 
@@ -90,53 +106,24 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot of the Pinneyavaam desktop here)
-*The Pinneyavaam desktop — where productivity comes to take a break.*
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/a083ddb2-27a4-4bea-a91d-ef33f94a18aa" />
 
-![Screenshot2](Add screenshot of Gravity Cursor or Helpful Flappy Bird here)
-*One of the useless applications running inside Pinneyavaam. Because apparently a normal cursor wasn't complicated enough.*
+<img width="1600" height="863" alt="image" src="https://github.com/user-attachments/assets/9605273f-9434-4a4a-bef2-65d0462cc858" />
 
-![Screenshot3](Add screenshot of UselessBot or Procrastination Stats here)
-*UselessBot and the Procrastination Stats system, helping the user achieve absolutely nothing.*
+<img width="1600" height="933" alt="image" src="https://github.com/user-attachments/assets/d3dc29f4-952d-4118-af7e-20eac8302820" />
 
-# Diagrams
+<img width="1600" height="912" alt="image" src="https://github.com/user-attachments/assets/d8f334f2-4b28-4fec-bc3a-0039d8cfdf45" />
 
-![Workflow](Add your workflow/architecture diagram here)
-*The Pinneyavaam system connects its individual applications through a shared state and Procrastination Engine, allowing every unnecessary interaction to contribute to the user's overall procrastination.*
+<img width="1600" height="910" alt="image" src="https://github.com/user-attachments/assets/f776992c-fd13-480a-8fac-35d9dc85b47a" />
 
-For Hardware:
-
-# Schematic & Circuit
-
-Not applicable — Pinneyavaam is a software-only project.
-
-![Circuit](Add your circuit diagram here)
-*No hardware circuit is required. Thankfully, at least one thing here is simple.*
-
-![Schematic](Add your schematic diagram here)
-*No hardware schematic is required for this project.*
-
-# Build Photos
-
-![Components](Add photo of your development setup here)
-*The development environment and software components used to build Pinneyavaam.*
-
-![Build](Add photos of build process here)
-*The development process — from a questionable idea to a fully functional operating system that nobody needed.*
-
-![Final](Add photo of final product here)
-*The final Pinneyavaam web application running as an interactive anti-productivity operating system.*
+<img width="1600" height="904" alt="image" src="https://github.com/user-attachments/assets/b8eca49c-3c72-447f-8c8a-273b190a29af" />
 
 ### Project Demo
 
 # Video
 
-[Add your demo video link here]
+[Click here for demo video](https://drive.google.com/file/d/1weCfZPG4Km8JeH_ktNbzZRm6FIFwc7V6/view?usp=drive_link)
 *The demo showcases the Pinneyavaam boot sequence, desktop environment, Gravity Cursor, Helpful Flappy Bird, Anti-Productivity Alarm, UselessBot and Procrastination Stats.*
-
-# Additional Demos
-
-[Add any extra demo materials/links]
 
 ## Team Contributions
 
