@@ -12,7 +12,7 @@
 
 ### Project Description
 
-**Pinneyavaam** is an intentionally anti-productive operating system designed to help you do absolutely anything except what you actually need to do.
+**Pinneyavaam** is an intentionally anti-productive web application designed to help you do absolutely anything except what you actually need to do.
 
 It comes with a gravity-powered cursor, a Flappy Bird that refuses to let you lose, an alarm that believes in infinite snoozing, and an AI chatbot  that gives you surprisingly convincing reasons to procrastinate.
 
