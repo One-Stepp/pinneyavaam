@@ -1,1 +1,53 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PINNEYAVAAM — pani undu, samayam undu, pinneyavaam</title>
+    <meta name="description" content="pani undu, samayam undu, pinneyavaam" />
+    <meta property="og:title" content="PINNEYAVAAM" />
+    <meta property="og:description" content="pani undu, samayam undu, pinneyavaam" />
+    <meta property="og:type" content="website" />
+    <meta name="theme-color" content="#0a0a0c" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script>
+      (function() {
+        const origError = console.error;
+        console.error = function(...args) {
+          if (
+            typeof args[0] === 'string' &&
+            (args[0].includes('TensorFlow Lite') ||
+             args[0].includes('XNNPACK') ||
+             args[0].startsWith('INFO:'))
+          ) {
+            console.info(...args);
+            return;
+          }
+          origError.apply(console, args);
+        };
+        window.Module = window.Module || {};
+        const origPrintErr = window.Module.printErr;
+        window.Module.printErr = function(text) {
+          if (
+            typeof text === 'string' &&
+            (text.includes('TensorFlow Lite') ||
+             text.includes('XNNPACK') ||
+             text.startsWith('INFO:'))
+          ) {
+            console.info(text);
+            return;
+          }
+          if (origPrintErr) origPrintErr(text);
+          else console.error(text);
+        };
+      })();
+    </script>
+  </head>
+  <body class="bg-[#090a0f] text-slate-100 antialiased overflow-hidden select-none">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
 
